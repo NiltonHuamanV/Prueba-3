@@ -6,6 +6,7 @@ import pe.edu.upc.demosi61clase.entities.Movie;
 
 import java.util.List;
 
+//Este es el repositorio de movie
 @Repository
 public interface IMovieRepository extends JpaRepository<Movie,Integer> {
 
