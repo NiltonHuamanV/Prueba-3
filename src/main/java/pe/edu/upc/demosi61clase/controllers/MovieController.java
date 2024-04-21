@@ -12,6 +12,8 @@ import java.util.stream.Collectors;
 
 
 //Esta es el controlador de peliculas
+
+//Comentario de prueba para rama1
 @RestController
 @RequestMapping("/peliculas")
 public class MovieController {
