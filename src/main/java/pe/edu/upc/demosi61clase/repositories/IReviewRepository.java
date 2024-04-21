@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import pe.edu.upc.demosi61clase.entities.Review;
 
 import java.util.List;
-//Este es el repositorio de review
+//Este es el repositorio de reviewjj
 @Repository
 public interface IReviewRepository extends JpaRepository<Review, Integer> {
     @Query(value = "select m.title_movie as Pelicula, count(*) as cantidad \n" +
