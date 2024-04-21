@@ -10,7 +10,7 @@ import pe.edu.upc.demosi61clase.servicesinterfaces.IMovieService;
 import java.util.List;
 import java.util.stream.Collectors;
 
-
+//prueba rama 1  peliculas controller
 @RestController
 @RequestMapping("/peliculas")
 public class MovieController {
