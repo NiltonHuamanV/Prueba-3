@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 //prueba rama 1  peliculas controller
+//prueba para rama 2
 @RestController
 @RequestMapping("/peliculas")
 public class MovieController {
