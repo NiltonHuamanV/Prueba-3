@@ -10,6 +10,8 @@ import pe.edu.upc.demosi61clase.servicesinterfaces.IMovieService;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+//Esta es el controlador de peliculas
 @RestController
 @RequestMapping("/peliculas")
 public class MovieController {
