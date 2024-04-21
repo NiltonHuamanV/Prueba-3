@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+//Este es el controlar de Review
 @RestController
 @RequestMapping("/criticas")
 public class ReviewController {
